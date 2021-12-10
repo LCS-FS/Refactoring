@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="pt.up.fe.ldts.example4.WorkerSpockTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-12-10T16:20:36" hostname="lucas-zenbook-ux425ja" time="0.008">
+<testsuite name="pt.up.fe.ldts.example4.WorkerSpockTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-12-10T16:34:01" hostname="lucas-zenbook-ux425ja" time="0.009">
   <properties/>
-  <testcase name="Worker" classname="pt.up.fe.ldts.example4.WorkerSpockTest" time="0.002"/>
+  <testcase name="Worker" classname="pt.up.fe.ldts.example4.WorkerSpockTest" time="0.003"/>
   <testcase name="Supervisor" classname="pt.up.fe.ldts.example4.WorkerSpockTest" time="0.003"/>
   <testcase name="Client" classname="pt.up.fe.ldts.example4.WorkerSpockTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
