@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="pt.up.fe.ldts.example6.TreeTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-12-10T17:48:25" hostname="lucas-zenbook-ux425ja" time="0.013">
+<testsuite name="pt.up.fe.ldts.example6.TreeTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-12-16T19:54:39" hostname="lucas-zenbook-ux425ja" time="0.036">
   <properties/>
-  <testcase name="testTreeSetLocation()" classname="pt.up.fe.ldts.example6.TreeTest" time="0.003"/>
-  <testcase name="testToString()" classname="pt.up.fe.ldts.example6.TreeTest" time="0.001"/>
+  <testcase name="testTreeSetLocation()" classname="pt.up.fe.ldts.example6.TreeTest" time="0.018"/>
+  <testcase name="testToString()" classname="pt.up.fe.ldts.example6.TreeTest" time="0.007"/>
   <testcase name="testAddAppraisal()" classname="pt.up.fe.ldts.example6.TreeTest" time="0.002"/>
-  <testcase name="testNextAppraisalNotOverdue()" classname="pt.up.fe.ldts.example6.TreeTest" time="0.001"/>
+  <testcase name="testNextAppraisalNotOverdue()" classname="pt.up.fe.ldts.example6.TreeTest" time="0.002"/>
   <testcase name="testTreeCreation()" classname="pt.up.fe.ldts.example6.TreeTest" time="0.001"/>
   <testcase name="testNextAppraisalOverdue()" classname="pt.up.fe.ldts.example6.TreeTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>

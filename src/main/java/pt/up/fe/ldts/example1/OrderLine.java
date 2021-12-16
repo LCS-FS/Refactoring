@@ -31,6 +31,6 @@ public class OrderLine {
 
     @Override
     public String toString() {
-        return getProduct().getName() + "(x" + getQuantity() + "): " + (getTotal());
+        return getProduct().getName() + "(x" + getQuantity() + "): " + getTotal();
     }
 }
